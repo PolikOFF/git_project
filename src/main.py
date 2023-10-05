@@ -1,1 +1,2 @@
-print('Hey')
+def():
+    print('Hey')
